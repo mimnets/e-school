@@ -1,3 +1,43 @@
-.container-header{
+.section{
     padding: 10px 100px 10px 100px;
+    background-color: #F0FFF0;
+}
+.container{
+    padding-bottom: 100px;
+}
+.col-md-6 img{
+    height: 300px;
+}
+.row{
+    padding: 10px 100ps 10px 100px;
+}
+h6{
+    color: #FD511A;
+}
+h1{
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    /* or 146% */
+    color:#000000;;
+}
+span{
+    color: #21B573;
+}
+p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 225% */
+    color: #6C6B6B;
+}
+#s-button{
+    color: white;
+}
+.button-li{
+    color: white;
 }
