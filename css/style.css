@@ -17,6 +17,7 @@
 .col-md-6 img{
     height: 300px;
 }
+
 /* .row{
     padding: 30px;
     align-items: center;
@@ -79,9 +80,30 @@ a:hover {
     height: 85px;
     width: 66px;    
 }
-.align-center{
-    padding: 70px;
-    height: 270px;
-    width: 270px;
-    background-color: #6C6B6B;
+.col4-images{
+    width: 331px;
+    height: 234px;
+}
+.oc-h1{
+    padding: 20px 0 100px 0;
+    margin-left: 35%;
+}
+.col2-images{
+    height: 120px;
+    width: 120px;
+}
+ul li{
+    list-style-type:none;
+    color: wine;
+}
+.footer-section{
+    height: 369px;
+    background-color: #282531;
+    color: #6C6B6B;
+}
+.container-footer{
+    padding: 50px
+}
+footer{
+    padding-left: 40%;
 }
