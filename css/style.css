@@ -2,15 +2,26 @@
     padding: 10px 100px 10px 100px;
     background-color: #F0FFF0;
 }
+.section1{
+    padding: 10px 100px 10px 100px;
+    background-color: #6C6B6B;
+}
 .container{
     padding-bottom: 100px;
 }
+/* .school-statistics{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+} */
 .col-md-6 img{
     height: 300px;
 }
-.row{
-    padding: 10px 100ps 10px 100px;
-}
+/* .row{
+    padding: 30px;
+    align-items: center;
+    border-radius: 10px;
+} */
 h6{
     color: #FD511A;
 }
@@ -27,7 +38,6 @@ span{
     color: #21B573;
 }
 p{
-    font-family: Poppins;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -38,6 +48,40 @@ p{
 #s-button{
     color: white;
 }
-.button-li{
+button{
+    background-color:#21B573;
+    text-decoration: none;
+}
+a{
+    color:white;
+}
+a:hover {
     color: white;
+    text-decoration: none;
+}
+.button-link-signin{
+    text-decoration: none;
+    background-color:  #21B573;
+    padding: 0 15px 0 15px;
+    border-radius: 33px;
+    color: white;
+    border: none;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(to right, #21B573, #21B573);
+    padding: 10px 20px;
+    border-radius: 33px;
+    color: white;
+    border: none;
+}
+.col-images{
+    height: 85px;
+    width: 66px;    
+}
+.align-center{
+    padding: 70px;
+    height: 270px;
+    width: 270px;
+    background-color: #6C6B6B;
 }
